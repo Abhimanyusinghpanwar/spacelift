@@ -1,0 +1,3 @@
+name: spacelift-policy-test
+terraform_version: "1.5.7"
+workflow_file: .spacelift/workflow.yml

@@ -1,0 +1,3 @@
+before_init:
+  - name: Echo step
+    command: echo "Starting Terraform Init"
